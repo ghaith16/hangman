@@ -182,6 +182,20 @@ top: 220px;
     display: block;
 }
 
+@media (max-width: 1000px) {
+    .body {
+        display: flex;
+        flex-direction: column; 
+    }
+    .container {
+        width: 600px;
+    }
+    .row {
+        display: block;
+        width: 600px;
+    }
+}
+
 
 .letters {
     flex: 1;
