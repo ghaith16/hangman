@@ -1,5 +1,5 @@
 // Letters
-const letters = "abcçdefgğhıİjklmnoöprsştuüvwxyz";
+const letters = "abcçdefgğhiıjklmnoöprsştuüvwxyz";
 
 // Get Array From Letters
 let lettersArray = Array.from(letters);
